@@ -89,6 +89,13 @@ Once the above command completes as expected, add the command in `corntab -e`
 
 Note : The pictorials can be changed as per individiual cluster configurations.
 
+#### Here are the few snippets from the cluster:
+
+![Cluster Snippet1](./Cluster_Snippet1.png)
+
+
+![Cluster Snippet2](./Cluster_Snippet2.png)
+
 ####CONTRIBUTIONS Following team members has contributed for the realization of the project:
 
 Sandeep Ramesh Patil - Architect,
