@@ -91,8 +91,11 @@ Note : The pictorials can be changed as per individiual cluster configurations.
 
 ####CONTRIBUTIONS Following team members has contributed for the realization of the project:
 
-Sandeep Ramesh Patil - Architect
-Pushkaraj Balasaheb Thorat
-Prayas Gupta
+Sandeep Ramesh Patil - Architect,
+
+Pushkaraj Balasaheb Thorat,
+
+Prayas Gupta,
+
 Chetan Kulkarni
 
