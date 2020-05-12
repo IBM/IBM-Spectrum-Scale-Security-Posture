@@ -1,4 +1,4 @@
-# Security Posture
+# IBM Spectrum Scale Security Posture
 Using security posture project Spectrum Scale cluster's security aspects can be shown in Kibana in graphical representation. This will enable Scale users to quickly identify the loose ends with respect to security and make necessary changes so that all measures are taken.
 
 Multiple Spectrum Scale clusters can be added to the security posture module.
@@ -104,6 +104,7 @@ Pushkaraj Balasaheb Thorat
 
 Prayas Gupta
 
+Note: The project list easy step of implementation and is  DO-IT-YOURSELF. It is avalaible ‘as is’ with no formal support from IBM. You are also encouraged to continute to continute to the project.
 Chetan Kulkarni
 
 Prashant Sodhiya
