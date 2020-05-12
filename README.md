@@ -104,8 +104,9 @@ Pushkaraj Balasaheb Thorat
 
 Prayas Gupta
 
-Note: The project list easy step of implementation and is  DO-IT-YOURSELF. It is avalaible ‘as is’ with no formal support from IBM. You are also encouraged to continute to continute to the project.
 Chetan Kulkarni
 
 Prashant Sodhiya
+
+### Note: The project list easy step of implementation and is  DO-IT-YOURSELF. It is avalaible ‘as is’ with no formal support from IBM. You are also encouraged to continute to continute to the project.
 
