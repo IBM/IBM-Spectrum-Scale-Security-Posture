@@ -87,7 +87,11 @@ Once the above command completes as expected, add the command in `corntab -e`
 
 ### Step 7: Add the sample kibana_dashboard.ndjson file into Kibana i.e Login to Kiaban GUI page -> Go to "Management" Section -> Kibana -> Saved Objects -> Click on Import Saved Objects and then upload the kibana_dashboard.ndjson -> Move to Dashboard and look for pictorials.
 
-Note : The pictorials can be changed as per individiual cluster configurations.
+
+### Note:
+Note 1: Based on the configuration set by the administrator in Step 6 given in Readme.md , the security posture will be continuously checking and updating the security posture of spectrum scale cluster. The administrator is required to regularly monitor this dashboard so that if there is any change in the security posture he will be able to make out and take corrective action.
+
+Note 2: The pictorials can be changed as per individiual cluster configurations.
 
 #### Here are the few snippets from the cluster:
 
