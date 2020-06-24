@@ -54,7 +54,7 @@ By using below instructions, install Elastic Search and Kibana on one of the nod
 
 Note: For this setup, Logstash is not required.
 
-SecurityPosture node needs to have outbound access to the server where Elastic Search and Kbana is installed, this is because SecurityPosture is going to run REST api and ingest data into Elastic Search.
+SecurityPosture node needs to have outbound access to the server where Elastic Search and Kibana is installed, this is because SecurityPosture is going to run REST api and ingest data into Elastic Search.
 
 Install the Elastic and Kibana based on version and flavours of Operating System :
 
@@ -112,5 +112,5 @@ Chetan Kulkarni
 
 Prashant Sodhiya
 
-### Note: The project list easy step of implementation and is  DO-IT-YOURSELF. It is avalaible ‘as is’ with no formal support from IBM. You are also encouraged to continute to continute to the project.
+### Note: The project list easy step of implementation and is  DO-IT-YOURSELF (DIY). It is avalaible ‘as is’ with no formal support from IBM. You are also welcome & encouraged to contribute to the project.
 
