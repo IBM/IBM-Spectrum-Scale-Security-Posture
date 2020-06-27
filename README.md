@@ -101,16 +101,13 @@ Note 2: The pictorials can be changed as per individiual cluster configurations.
 
 ![Cluster Snippet2](./Cluster_Snippet2.png)
 
-#### CONTRIBUTIONS Following team members has contributed for the realization of the project:
+### CONTRIBUTIONS
 
+Following team members has contributed for the realization of the project:
 Sandeep Ramesh Patil 
-
 Pushkaraj Balasaheb Thorat
-
 Prayas Gupta
-
 Chetan Kulkarni
-
 Prashant Sodhiya
 
 ### Note: The project list easy step of implementation and is  DO-IT-YOURSELF (DIY). It is avalaible ‘as is’ with no formal support from IBM. You are also welcome & encouraged to contribute to the project.
