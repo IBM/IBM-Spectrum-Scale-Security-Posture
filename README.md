@@ -85,7 +85,8 @@ python cronjob.py --config-file security-posture.conf --scale-clusters-config-fi
 
 Once the above command completes as expected, add the command in `corntab -e`
 
-### Step 7: Add the sample kibana_dashboard.ndjson file into Kibana i.e Login to Kiaban GUI page -> Go to "Management" Section -> Kibana -> Saved Objects -> Click on Import Saved Objects and then upload the kibana_dashboard.ndjson -> Move to Dashboard and look for pictorials.
+### Step 7: Update Kibana
+Add the sample kibana_dashboard.ndjson file into Kibana i.e Login to Kiaban GUI page -> Go to "Management" Section -> Kibana -> Saved Objects -> Click on Import Saved Objects and then upload the kibana_dashboard.ndjson -> Move to Dashboard and look for pictorials.
 
 
 ### Note:
@@ -100,7 +101,7 @@ Note 2: The pictorials can be changed as per individiual cluster configurations.
 
 ![Cluster Snippet2](./Cluster_Snippet2.png)
 
-####CONTRIBUTIONS Following team members has contributed for the realization of the project:
+#### CONTRIBUTIONS Following team members has contributed for the realization of the project:
 
 Sandeep Ramesh Patil 
 
